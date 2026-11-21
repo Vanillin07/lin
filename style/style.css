@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color:#202C7A;
+
+}
+.icon{border-radius:10px;
+background-color:#202C7A;
+padding:5px;
+color:white}
+header{
+  background:
+    linear-gradient(
+        90deg,
+      hsl(0, 0%, 100%) 0%,
+      #abbaff 40%,
+      #7084f5 40%,
+      rgb(130, 133, 236) 90%,
+      #4e68ff 90%,
+      #4560fa 100%
+    );;
+
+
+    margin:10xp;
+}
+.lox{ background: linear-gradient(
+        90deg,
+      #ffffff 0%,
+      #a3b4ff 40%,
+      #7084f5 40%,
+      rgb(130, 133, 236) 90%,
+      #4e68ff 90%,
+      #4560fa 100%);
+      margin:10xp;
+      color: white;
+    );;}
+    .bro{background color:rgb;}
+    .o{ color:white;}
+    h1{color:white;}
+    .a{
+      color:MediumPurple;
+    }
+    .s{
+      color:Khaki;
+    }
+    .d{color:pink;}
+    .f{color:LightBlue}
+    p{
+   color:white;   
+    }
+    .z{
+    color:PaleGoldenRod;
+    }
+    .x{
+      color:LightSkyBlue;
+    }
+    .c{color:MediumPurple;}
+  
+    .b{color:SteelBlue; }
+    .v{color:DarkSeaGreen ;}
+    .m{color:rgb(249, 255, 192);}
